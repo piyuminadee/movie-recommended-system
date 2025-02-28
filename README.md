@@ -2,7 +2,7 @@
 
 A Streamlit-based web app that recommends movies based on similarity and displays posters using the TMDB API.
 
-![Demo](demo.png) <!-- Add a screenshot of your app here -->
+[![Demo Video](demo.gif)](demo.mp4)
 
 ## Features ✨
 - Recommends 5 similar movies based on user selection.
