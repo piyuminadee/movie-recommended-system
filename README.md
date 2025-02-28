@@ -4,6 +4,7 @@ A Streamlit-based web app that recommends movies based on similarity and display
 
 [![Demo Video](demo.gif)](demo.mp4)
 
+
 ## Features ✨
 - Recommends 5 similar movies based on user selection.
 - Displays movie posters fetched from TMDB.
@@ -13,7 +14,7 @@ A Streamlit-based web app that recommends movies based on similarity and display
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/movie-recommender.git
+   git clone https://github.com/piyuminadee/movie-recommended-system.git
    cd movie-recommender
    ```
 2. **Install dependencies
@@ -52,3 +53,6 @@ API Errors: Verify the TMDB API key in app.py.
 Dataset: <a href="https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata">Kaggle Movies Dataset.</a>
 Poster Images: <a href="https://www.themoviedb.org/">The Movie Database (TMDB).</a>
 UI: Built with <a href="https://streamlit.io/">Streamlit. </a>
+
+![Demo](1.png)
+![Demo](2.png)
